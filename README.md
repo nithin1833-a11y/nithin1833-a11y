@@ -43,9 +43,9 @@
 
 ##  GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nithin1833-a11y&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nithin1833-a11y&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin1833-a11y&layout=compact&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com/?user=nithin1833-a11y&theme=radical)
 
 ---
 
