@@ -25,9 +25,9 @@ Focused on threat detection, log analysis, and security monitoring systems
 
 ##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nithin1833-a11y&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nithin-santhosh&show_icons=true&theme=radical)
 
-![Streak Stats](https://streak-stats.demolab.com/?user=nithin1833-a11y&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com/?user=nithin-santhosh&theme=radical)
 
 ---
 
