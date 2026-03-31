@@ -38,10 +38,5 @@ Focused on threat detection, log analysis, and security monitoring systems
 
 ---
 
-##  Contact
-- Email: nithin1833@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/NithinSanthoshNS/
----
-
 ##  Profile Note
 Focused on building practical, real-world security solutions.
