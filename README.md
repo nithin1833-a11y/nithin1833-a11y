@@ -1,5 +1,5 @@
 #  Nithin Santhosh
-![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Engineer;SIEM+Developer;SOC+Analyst)
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Engineer;SIEM+Developer;SOC+Analyst;Pentester;Vibe+Coding)
 
 **Cybersecurity Engineer | SIEM Developer**  
 Focused on threat detection, log analysis, and security monitoring systems  
